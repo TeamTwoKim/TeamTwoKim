@@ -4,13 +4,13 @@ TEAM TWOKIM 의 개발 GitHub 입니다.
 
 # 구성원
 
-### qudwnbj (김병주)
+### qudwnbj (김병주) - Backend
 
 <a href="https://github.com/qudwnbj">
 <img src="https://img.shields.io/badge/-qudwnbj-181717?style=flat-square&logo=Github"/>
 </a>
 
-### daksae98 (김현수)
+### daksae98 (김현수) - Frontend
 <a href="https://github.com/daksae98">
 <img src="https://img.shields.io/badge/-daksae98-181717?style=flat-square&logo=Github"/>
 </a>
