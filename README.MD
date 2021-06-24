@@ -21,3 +21,6 @@ Project TeamTwoKim (이름 미정)
 
 대학생 대상 질문 서비스를 제공하는 
 Mobile App 플랫폼
+
+2021-06-24
+Auth 1차완료 (회원가입, 로그인)
