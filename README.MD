@@ -17,7 +17,7 @@ TEAM TWOKIM 의 개발 GitHub 입니다.
 
 # 진행중인 프로젝트
 
-Project TeamTwoKim (이름 미정)
+Project TeamTwoKim (이름 미정) 2021-06-20~
 
 대학생 대상 질문 서비스를 제공하는 
 Mobile App 플랫폼
